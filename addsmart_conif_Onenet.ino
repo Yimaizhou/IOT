@@ -5,8 +5,6 @@
 BH1750FVI LightSensor(BH1750FVI::k_DevModeContLowRes);
 #define DEBUG 1
 #define LED 2 
-
-
 const char *ssid = "PennovationMember-2.4G";     //wifiname
 const char *password = "Ideas@Work18"; //wifipsaaword
 //const char ssid[]     = "iPhone";         //  -- Please use your own wifi ssid
